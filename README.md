@@ -1,0 +1,1 @@
+# Alternative-Expectation-Formula-for-Truncated-Random-Variable
