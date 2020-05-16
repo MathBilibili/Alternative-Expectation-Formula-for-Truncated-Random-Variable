@@ -87,6 +87,3 @@ plt.scatter(est_range,est_Im,marker='o',c='red',s=10)
 #plot_Im.plot(x_range,ori_Im,est_range,est_Im,'ro')
 fig.savefig('F1.pdf')
 
-
- plt.scatter(est_range,est_Re,marker='o')
- plt.plot(x_range,ori_Re)
