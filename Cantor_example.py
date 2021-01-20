@@ -2,7 +2,7 @@
 """
 Created on Fri May 15 15:43:53 2020
 
-@author: Administrator
+@author: Yang Liu
 """
 import numpy as np
 import matplotlib.pyplot as plt
